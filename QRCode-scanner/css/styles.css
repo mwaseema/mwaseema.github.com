@@ -1,0 +1,13 @@
+/*
+ * Globals
+ */
+.column_top_bottom_padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#preview {
+  max-width: 100%;
+}
+
+/*# sourceMappingURL=styles.css.map */
