@@ -1,11 +1,4 @@
 - 👋 Hi, I’m M. Waseem Ashraf (@mwaseema)
 - 👷 Currently working as Software Engineer in RnD Vision team at Motive
-- 📔 Experience in different domains
-    - Front-end
-    - Back-end
-    - System Programming
-    - AI
-        - Machine Learning
-        - Deep learning
-            - Have a paper in world's top conference for Computer Vision based AI, CVPR.
-                - Paper: https://bit.ly/3nzOpbb
+- 📔 Experience in different domains: AI (Machine learning, Deep learning), Back-end, Front-end, System programming
+- 📜 I've a paper in world's top conference based on Computer Vision and AI, CVPR (https://bit.ly/3nzOpbb)
