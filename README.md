@@ -1,4 +1,11 @@
-mwaseema.github.com
-===================
-
-Personal repo
+- 👋 Hi, I’m M. Waseem Ashraf (@mwaseema)
+- 👷 Currently working as Software Engineer in RnD Vision team at Motive
+- 📔 Experience in different domains
+    - Front-end
+    - Back-end
+    - System Programming
+    - AI
+        - Machine Learning
+        - Deep learning
+            - Have a paper in world's top conference for Computer Vision based AI, CVPR.
+                - Paper: https://bit.ly/3nzOpbb
